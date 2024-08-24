@@ -4,7 +4,7 @@ server
 server side build with node js
 
 HOW TO RUN PROGRAM
-open folder in terminal
+ open folder in terminal
  cd server
  node .
  
